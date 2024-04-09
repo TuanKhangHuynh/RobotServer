@@ -1,0 +1,10 @@
+C:\Users\Tuan_\Documents\Universität_LMU\Master\Masterarbeit\RobotServer\RobotServer\obj\Debug\RobotServer.csproj.CoreCompileInputs.cache
+C:\Users\Tuan_\Documents\Universität_LMU\Master\Masterarbeit\RobotServer\RobotServer\bin\Debug\RobotServer.exe.config
+C:\Users\Tuan_\Documents\Universität_LMU\Master\Masterarbeit\RobotServer\RobotServer\bin\Debug\RobotServer.exe
+C:\Users\Tuan_\Documents\Universität_LMU\Master\Masterarbeit\RobotServer\RobotServer\bin\Debug\RobotServer.pdb
+C:\Users\Tuan_\Documents\Universität_LMU\Master\Masterarbeit\RobotServer\RobotServer\obj\Debug\RobotServer.exe
+C:\Users\Tuan_\Documents\Universität_LMU\Master\Masterarbeit\RobotServer\RobotServer\obj\Debug\RobotServer.pdb
+C:\Users\Tuan_\Documents\Universität_LMU\Master\Masterarbeit\RobotServer\RobotServer\obj\Debug\RobotServer.csproj.AssemblyReference.cache
+C:\Users\Tuan_\Documents\Universität_LMU\Master\Masterarbeit\RobotServer\RobotServer\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Tuan_\Documents\Universität_LMU\Master\Masterarbeit\RobotServer\RobotServer\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Tuan_\Documents\Universität_LMU\Master\Masterarbeit\RobotServer\RobotServer\obj\Debug\RobotServer.csproj.CopyComplete
